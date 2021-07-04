@@ -4,7 +4,7 @@ A little python script to plot shanghai tech format annotations onto the images 
 # Installing
 Requirements are pretty minimal. 
 
-`cd ~/git/YoloDataToShanghaiTech` (or wherever this repo is cloned to)
+`cd ~/git/PlotShanghaiTechData` (or wherever this repo is cloned to)
 
 `python3 -m venv ./venv`
 
